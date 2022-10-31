@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/FredZabu/ecommerce-product-page-main.git)
-- Live Site URL: [Add live site URL here](https://fredzabu.github.io/ecommerce-product-page-main/)
+- Solution URL: [https://github.com/FredZabu/ecommerce-product-page-main.git]
+- Live Site URL: [https://fredzabu.github.io/ecommerce-product-page-main/]
 
 ## My process
 
