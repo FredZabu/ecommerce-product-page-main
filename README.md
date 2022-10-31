@@ -1,4 +1,3 @@
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -12,7 +11,8 @@
 - [Author](#author)
 
 ## Overview
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It was challenging and interesting though at somepoint i failed to avoid duplicate codes. 
+
+This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It was challenging and interesting though at somepoint i failed to avoid duplicate codes.
 
 ### The challenge
 
@@ -33,12 +33,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/FredZabu/ecommerce-product-page-main.git)
+- Live Site URL: [Add live site URL here](https://fredzabu.github.io/ecommerce-product-page-main/)
 
 ## My process
+
 - i started by finding out ways i can come up with the solution to challege.
 - i used the desktop first flow to comeup with the solution.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -49,31 +51,29 @@ Users should be able to:
 
 ### What I learned
 
-I learnt on how to use css variables  and also got to understand that desktop first flow is quiet hectic compared to mobile first workflow.
+I learnt on how to use css variables and also got to understand that desktop first flow is quiet hectic compared to mobile first workflow.
 
 ```css
-:root{
-  font-size: 16px;  
---mg-lt:1.5rem;  
---ftw-1:400;
---ftw-2:700;  
---primary-clr-1:hsl(26, 100%, 55%);
---primary-clr-2:hsl(25, 100%, 94%);
---text-clr-1:hsl(220, 13%, 13%);
---text-clr-2:hsl(219, 9%, 45%);
---text-clr-3: hsl(220, 14%, 75%);
---bg-clr:hsl(223, 64%, 98%);
---wht-clr:hsl(0, 0%, 100%);
---lt-box-bg:hsl(0, 0%, 75%);
---transit: all 400ms ease;
-
+:root {
+  font-size: 16px;
+  --mg-lt: 1.5rem;
+  --ftw-1: 400;
+  --ftw-2: 700;
+  --primary-clr-1: hsl(26, 100%, 55%);
+  --primary-clr-2: hsl(25, 100%, 94%);
+  --text-clr-1: hsl(220, 13%, 13%);
+  --text-clr-2: hsl(219, 9%, 45%);
+  --text-clr-3: hsl(220, 14%, 75%);
+  --bg-clr: hsl(223, 64%, 98%);
+  --wht-clr: hsl(0, 0%, 100%);
+  --lt-box-bg: hsl(0, 0%, 75%);
+  --transit: all 400ms ease;
 }
 
-body{
-    background-color: var(--wht-clr);
+body {
+  background-color: var(--wht-clr);
 }
 ```
-
 
 ### Continued development
 
